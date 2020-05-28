@@ -1,0 +1,15 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\bin\Debug\Wpf_Basic.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\bin\Debug\Wpf_Basic.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\bin\Debug\Wpf_Basic.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\MainWindow.g.cs
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\App.g.cs
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic_MarkupCompile.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic_MarkupCompile.lref
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\MainWindow.baml
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic.g.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\WPF\Wpf_Basic\Wpf_Basic\obj\Debug\Wpf_Basic.pdb
