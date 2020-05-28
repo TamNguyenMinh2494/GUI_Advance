@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctrlSketch", "ctrlSketch\ctrlSketch.csproj", "{FD26C731-87B2-4406-B3D5-42C1AD26286F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{25CD714E-DE43-4A0A-93E9-27C19EF069F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD26C731-87B2-4406-B3D5-42C1AD26286F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD26C731-87B2-4406-B3D5-42C1AD26286F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD26C731-87B2-4406-B3D5-42C1AD26286F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD26C731-87B2-4406-B3D5-42C1AD26286F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CD714E-DE43-4A0A-93E9-27C19EF069F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CD714E-DE43-4A0A-93E9-27C19EF069F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CD714E-DE43-4A0A-93E9-27C19EF069F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CD714E-DE43-4A0A-93E9-27C19EF069F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4812839-4CDD-4968-8A20-DB2AD57641C0}
+	EndGlobalSection
+EndGlobal

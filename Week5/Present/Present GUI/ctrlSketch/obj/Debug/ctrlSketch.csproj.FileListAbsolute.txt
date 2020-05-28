@@ -1,0 +1,8 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\bin\Debug\ctrlSketch.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\bin\Debug\ctrlSketch.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\obj\Debug\ctrlSketch.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\obj\Debug\ctrlSketch.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\obj\Debug\ctrlSketch.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\obj\Debug\ctrlSketch.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\obj\Debug\ctrlSketch.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\ctrlSketch\obj\Debug\ctrlSketch.SketchControl.resources

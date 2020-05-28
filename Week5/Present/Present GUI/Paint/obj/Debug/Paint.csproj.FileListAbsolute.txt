@@ -1,0 +1,13 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\bin\Debug\Paint.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\bin\Debug\Paint.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\bin\Debug\Paint.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\bin\Debug\ctrlSketch.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\bin\Debug\ctrlSketch.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week5\Present\Present GUI\Paint\obj\Debug\Paint.Paint.resources
