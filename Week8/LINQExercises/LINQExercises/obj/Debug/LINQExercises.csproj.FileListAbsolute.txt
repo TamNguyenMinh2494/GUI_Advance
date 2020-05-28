@@ -1,0 +1,15 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\bin\Debug\LINQExercises.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\bin\Debug\LINQExercises.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\bin\Debug\LINQExercises.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.Form1.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\bin\Debug\EntityFramework.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\bin\Debug\EntityFramework.xml
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week8\LINQExercises\LINQExercises\obj\Debug\LINQExercises.csproj.CopyComplete
