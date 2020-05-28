@@ -1,0 +1,10 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\bin\Debug\Example02.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\bin\Debug\Example02.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\bin\Debug\Example02.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\obj\Debug\Example02.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\obj\Debug\Example02.Form1.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\obj\Debug\Example02.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\obj\Debug\Example02.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\obj\Debug\Example02.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\obj\Debug\Example02.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\Example02\Example02\obj\Debug\Example02.pdb

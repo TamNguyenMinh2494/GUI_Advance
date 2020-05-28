@@ -1,0 +1,11 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.LoginControl.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week6\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.TestLogin.resources
