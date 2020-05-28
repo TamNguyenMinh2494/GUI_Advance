@@ -1,0 +1,8 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\bin\Debug\ctlClock.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\bin\Debug\ctlClock.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\obj\Debug\ctlClock.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\obj\Debug\ctlClock.UserControl1.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\obj\Debug\ctlClock.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\obj\Debug\ctlClock.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\obj\Debug\ctlClock.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClock\ctlClock\obj\Debug\ctlClock.pdb

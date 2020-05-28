@@ -1,0 +1,8 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\bin\Debug\ctlClockLib.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\bin\Debug\ctlClockLib.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.ctlAlarmClock.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week3\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.pdb
