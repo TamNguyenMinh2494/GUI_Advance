@@ -1,0 +1,9 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\bin\Debug\Form1.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\bin\Debug\Form1.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\bin\Debug\Form1.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\obj\Debug\Form1.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\Form1\Form1\obj\Debug\Form1.pdb

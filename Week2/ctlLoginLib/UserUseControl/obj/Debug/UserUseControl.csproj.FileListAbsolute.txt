@@ -1,0 +1,13 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\bin\Debug\UserUseControl.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\bin\Debug\UserUseControl.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\bin\Debug\UserUseControl.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\bin\Debug\ctlLoginLib.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\bin\Debug\ctlLoginLib.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.Form1.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.csproj.CopyComplete
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\UserUseControl\obj\Debug\UserUseControl.pdb

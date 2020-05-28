@@ -1,0 +1,8 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\bin\Debug\ctlLoginLib.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\bin\Debug\ctlLoginLib.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\obj\Debug\ctlLoginLib.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\obj\Debug\ctlLoginLib.ctlLogin.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\obj\Debug\ctlLoginLib.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\obj\Debug\ctlLoginLib.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\obj\Debug\ctlLoginLib.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week2\ctlLoginLib\ctlLoginLib\obj\Debug\ctlLoginLib.pdb
