@@ -1,0 +1,11 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\bin\Debug\Example01.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\bin\Debug\Example01.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\bin\Debug\Example01.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.StudentInformationControl.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example01\Example01\obj\Debug\Example01.Form1.resources

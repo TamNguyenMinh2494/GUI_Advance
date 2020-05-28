@@ -1,0 +1,11 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\bin\Debug\Example06.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\bin\Debug\Example06.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\bin\Debug\Example06.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.Profile.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week7\Example06\Example06\obj\Debug\Example06.RegistrationForm.resources
