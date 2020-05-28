@@ -1,0 +1,10 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
