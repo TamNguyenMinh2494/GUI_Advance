@@ -1,0 +1,13 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\bin\Debug\Test Number Box.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\bin\Debug\Test Number Box.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\bin\Debug\Test Number Box.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\bin\Debug\ctrlNumberBox.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\bin\Debug\ctrlNumberBox.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test Number Box.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test_Number_Box.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test Number Box.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test Number Box.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test Number Box.csproj.CopyComplete
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test Number Box.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test Number Box.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\Test Number Box\obj\Debug\Test_Number_Box.Form1.resources

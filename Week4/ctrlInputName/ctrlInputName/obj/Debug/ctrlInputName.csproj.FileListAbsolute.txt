@@ -1,0 +1,8 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\bin\Debug\ctrlInputName.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\bin\Debug\ctrlInputName.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\obj\Debug\ctrlInputName.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\obj\Debug\ctrlInputName.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\obj\Debug\ctrlInputName.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\obj\Debug\ctrlInputName.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\obj\Debug\ctrlInputName.RequiredTextbox.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\ctrlInputName\obj\Debug\ctrlInputName.csproj.GenerateResource.cache

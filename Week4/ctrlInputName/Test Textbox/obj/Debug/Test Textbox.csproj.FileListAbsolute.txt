@@ -1,0 +1,13 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\bin\Debug\Test Textbox.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\bin\Debug\Test Textbox.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\bin\Debug\Test Textbox.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\bin\Debug\ctrlInputName.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\bin\Debug\ctrlInputName.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test Textbox.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test_Textbox.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test Textbox.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test Textbox.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test Textbox.csproj.CopyComplete
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test Textbox.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test Textbox.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlInputName\Test Textbox\obj\Debug\Test_Textbox.Form1.resources

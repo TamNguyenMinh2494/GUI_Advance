@@ -1,0 +1,8 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\bin\Debug\ctrlNumberBox.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\bin\Debug\ctrlNumberBox.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\obj\Debug\ctrlNumberBox.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\obj\Debug\ctrlNumberBox.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\obj\Debug\ctrlNumberBox.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\obj\Debug\ctrlNumberBox.RequiredTextbox.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\obj\Debug\ctrlNumberBox.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week4\ctrlNumberBox\ctrlNumberBox\obj\Debug\ctrlNumberBox.csprojAssemblyReference.cache
