@@ -1,0 +1,15 @@
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\bin\Debug\ExersiseEF.exe.config
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\bin\Debug\ExersiseEF.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\bin\Debug\ExersiseEF.pdb
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\bin\Debug\EntityFramework.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\bin\Debug\EntityFramework.xml
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.Form1.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.csproj.CopyComplete
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.exe
+D:\CNTT\LapTrinhGiaoDien_Advanced\Week11\ExersiseEF\ExersiseEF\obj\Debug\ExersiseEF.pdb
